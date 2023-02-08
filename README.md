@@ -1,5 +1,5 @@
 # project-for-FRT-
-## finalpro:Future Ready Talent Project By Bhoj Krishna Mudunuri
+## finalpro:Future Ready Talent Project By upendra
 ##   WALK Website
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
