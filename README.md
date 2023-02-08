@@ -24,3 +24,8 @@ Azure Health Bot URL : https://centralindia.healthbot.microsoft.com/account/proj
 
 ## MY WEBSITE LINK IS : https://ashy-dune-0eb3d3d00.2.azurestaticapps.net 
 ## SCREENSHOTS-
+## HOME-
+
+
+
+
